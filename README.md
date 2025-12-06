@@ -103,4 +103,4 @@ Project: Fake News Detection using SVM
 
 ⭐ Support
 
-If you like this project, please ⭐ star the repository and share it with others!
+If you like this project, please ⭐ star the repository and share it with others.
