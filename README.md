@@ -98,7 +98,7 @@ Add explainability (LIME / SHAP)
 🧑‍💻 Developed By
 
 Kanha Patidar
-Python • Machine Learning • NLP
+Python • Machine Learning 
 Project: Fake News Detection using SVM
 
 ⭐ Support
