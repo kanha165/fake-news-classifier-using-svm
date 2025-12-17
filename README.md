@@ -97,8 +97,23 @@ Add explainability (LIME / SHAP)
 
 🧑‍💻 Developed By
 
-Kanha Patidar
-Python • Machine Learning 
+Developed by **Kanha Patidar**
+
+Branch: B.Tech CSIT
+
+Semester: 5th Sem
+
+College: Chameli Devi Group of Institutions, Indore
+
+
+GitHub: kanha165
+
+LinkedIn: (https://www.linkedin.com/in/kanha-patidar-837421290/)
+
+Email: (kanhapatidar7251@gmail.com)
+
+
+ 
 Project: Fake News Detection using SVM
 
 ⭐ Support
